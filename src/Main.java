@@ -145,6 +145,7 @@ public class Main {
         System.out.println("I AM BUG1 I am going to do a  commit 20250419_1419");
         System.out.println("I AM BUG1 I am going to do a  commit 20250419_1419");
         System.out.println("I AM a new BUG 2 am going to do a  commit 20250419_1419");
+        System.out.println("I AM the resolution finally for the new BUG 2 am going to do a  commit 20250419_1419");
 
 
     }
