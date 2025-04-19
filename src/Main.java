@@ -147,7 +147,10 @@ public class Main {
         System.out.println("I AM a new BUG 2 am going to do a  commit 20250419_1419");
         System.out.println("I AM the resolution finally for the new BUG 2 am going to do a  commit 20250419_1419");
         System.out.println("I am a release 1");
-        System.out.println("I am a release 1.1.1 with bug 1 and evolutivo 1 lines I expect after merge");
+        System.out.println("I am a release 1 with evolutivo 11111");
+        System.out.println("I am a release 1.1.0 with  evolutivo 1");
+        System.out.println("I am a release 1.1.0 with  evolutivo 1 but I do not have the bug");
+
 
     }
 }
