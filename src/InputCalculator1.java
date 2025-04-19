@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//import static java.lang.Math.round;
+
 public class InputCalculator1 {
     /*
             input Calculator
@@ -60,7 +62,7 @@ public class InputCalculator1 {
         Scanner scanner = new Scanner(System.in);
         int count = 0;
         int sum = 0;
-        int average = 0;
+        int average;
         String input = scanner.nextLine();
 
         while (!input.equals("END")){
@@ -75,10 +77,11 @@ public class InputCalculator1 {
                 break;
             }
             input = scanner.nextLine();
-        };
+        }
 
         if (count > 0) {
-            average = new Integer(Math.round( sum / count));
+            //average = new Integer(Math.round( sum / count));
+            average = Math.round( sum / count);
             System.out.println("SUM = " + sum + " AVG = " + average);
         } else
             System.out.println("SUM = 0 AVG = 0");
