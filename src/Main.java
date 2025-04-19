@@ -112,6 +112,9 @@ public class Main {
         // 6.26, 2.26
         // 3.26, 0.75
         System.out.println("Ehi Ehi Ehi, just do it!!!!!");
+        System.out.println("Ehi Ehi Ehi, just do it!!!!!");
+        System.out.println("Ehi Ehi Ehi, just do it!!!!!");
+        System.out.println("Ehi Ehi Ehi, just do it!!!!!");
 
     }
 }
