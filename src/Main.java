@@ -157,6 +157,20 @@ public class Main {
 
         System.out.println("SOY 1.1.1 Y CREO ESTA NUEVA LINEA PORQUE HE TRAIDO EL EVOLUTIVO 1");
         System.out.println("SOY POR TANTO LA VERDADERA 1.1.0 AHORA FALTA BUG");
+        System.out.println("I am a release 1 with bug111111resolved");
+
+        System.out.println("VERDADERA 1.1.1 CON EVOLUTIVO Y BUG");
+
+
+
+
+        //System.out.println("añado al main raiz la combinación de ambos");
+
+
+
+
+
+
 
     }
 }
